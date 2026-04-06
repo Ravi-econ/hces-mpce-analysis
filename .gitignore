@@ -1,0 +1,12 @@
+# Raw data files (too large for GitHub)
+*.dta
+*.xlsx
+
+# R environment files
+.Rhistory
+.RData
+.Rproj.user/
+
+# System files
+.DS_Store
+Thumbs.db
