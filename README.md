@@ -110,7 +110,8 @@ Sample weights (`mult / 100`) are applied to all averages so results are represe
 ## 👤 Author
 
 **Ravi S**  
-MA Economics | Semester 2  
+MA Economics 
+Azim Premji University, Bengaluru
 
 ---
 
